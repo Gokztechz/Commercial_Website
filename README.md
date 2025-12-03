@@ -1,7 +1,7 @@
 # Ex02 Commercial Website
 ## Name: GOKUL SHARAN R
 ## Reg No: 212223040052
-## Date: 08/09/2025
+## Date: 27/08/2025
 
 ## AIM
 To create a commercial website using CSS Flexbox.
